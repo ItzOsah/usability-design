@@ -2,7 +2,7 @@ import React from 'react'
 
 const Hero = () => {
   return (
-    <section className='max-container padding-container flex flex-col gap-20 py-10 '>
+    <section className='max-container padding-container flex flex-col gap-20 py-10 border-2'>
 <h1 className='bold-52'>
 Welcome to UX Accoms
 </h1>
